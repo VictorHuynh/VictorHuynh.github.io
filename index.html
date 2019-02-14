@@ -1,22 +1,40 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style> 
-
-#rcorners {
-  border-radius: 25px;
-  border: 2px solid #73AD21;
-  padding: 20px; 
-  width: 200px;
-  height: 150px;  
-  text-align: center;
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
 </style>
 </head>
 <body>
 
-<p id="rcorners">This is a squircle</p>
+<ul>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
 
 </body>
 </html>
