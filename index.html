@@ -7,11 +7,10 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
 }
 
 li {
-  float: left;
+  float: right;
 }
 
 li a {
@@ -26,12 +25,44 @@ li a:hover {
   background-color: #111;
 }
 html { 
-  background: url("https://images.pexels.com/photos/159627/pencils-clips-colour-pencils-foam-rubber-159627.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center fixed; 
+  background: url("https://images.pexels.com/photos/1036657/pexels-photo-1036657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
+.center p {
+  margin: 0;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 80px;
+  text-shadow:
+    -1px -1px 0 #9C9B9B,
+    1px -1px 0 #9C9B9B,
+    -1px 1px 0 #9C9B9B,
+    1px 1px 0 #9C9B9B;  
+}
+.center o {
+  margin: 0;
+  position: absolute;
+  top: 57%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 45px;
+  text-shadow:
+    -1px -1px 0 #9C9B9B,
+    1px -1px 0 #9C9B9B,
+    -1px 1px 0 #9C9B9B,
+    1px 1px 0 #9C9B9B;  
+}
+
 </style>
 </head>
 <body>
@@ -42,6 +73,11 @@ html {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-
+<div class="center">
+  <p>VICTOR</p>
+  <o>HUYNH</o>
+  
+</div>
 </body>
 </html>
+
