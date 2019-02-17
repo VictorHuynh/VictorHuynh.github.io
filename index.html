@@ -24,6 +24,7 @@ li a:hover:not(.active) {
 }
 
 .center p {
+	color: white;
   margin: 0;
   position: absolute;
   top: 50%;
@@ -31,15 +32,33 @@ li a:hover:not(.active) {
   transform: translate(-50%, -50%);
   font-size: 40px;
   font-family: Courier New, monospace;
+  animation-name: examplel; 
+  animation-delay: 1.5s;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
 }
 .center o {
+  color: white;
   margin: 0;
-  position: absolute;
-  top: 40%;
-  left: 50%;
+  left: 46%;
   transform: translate(-50%, -50%);
   font-family: Courier New, monospace;
+  position: relative;
+  animation-name: example; 
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
 }
+@-webkit-keyframes example {
+  from {top: 50px;}
+  to {top: 150px; 
+  color: black;}
+}
+@-webkit-keyframes examplel {
+  from {top: 250px;}
+  to {top: 250px; 
+  color: black;}
+}
+
 .center l {
   margin: 0;
   position: absolute;
@@ -47,6 +66,7 @@ li a:hover:not(.active) {
   left: 30px;
   transform: translate(-50%, -50%);
   }
+
 </style>
 </head>
 <body>
