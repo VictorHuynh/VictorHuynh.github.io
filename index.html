@@ -26,6 +26,49 @@ a:hover {
   text-shadow: 5px 5px 2px #cccccc;
 }
 
+l:hover {
+  opacity: 1;
+}
+
+p {
+  color: white;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 40px;
+  font-family: Courier New, monospace;
+  animation-name: examplel; 
+  animation-delay: 1.3s;
+  animation-duration: 3s;
+  animation-fill-mode: forwards;
+}
+
+o {
+  color: white;
+  margin: 0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: Courier New, monospace;
+  position: absolute;
+  animation-name: example; 
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+}
+
+@keyframes example {
+  from {top: 20%;}
+  to {top: 40%; 
+  color: black;}
+}
+
+@keyframes examplel {
+  from {}
+  to {color: black;}
+}
+
 l {
   margin: 0;
   position: absolute;
@@ -35,80 +78,6 @@ l {
   opacity: 0.1;
   transition: 0.3s;
   }
-  
-l:hover {
-  opacity: 1;
-}
-w {
-  color: white;
-  margin: 0;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: Courier New, monospace;
-  font-size: 40px;
-  position: absolute;
-  animation-name: w; 
-  animation-duration: 3s;
-  animation-fill-mode: forwards;
-}
-e {
-  color: white;
-  margin: 0;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: Courier New, monospace;
-  font-size: 20px;
-  position: absolute;
-  animation-name: e; 
-  animation-duration: 2s;
-  animation-delay: 1.3s;
-  animation-fill-mode: forwards;
-}
-r {
-  color: white;
-  margin: 0;
-  top: 60%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: Courier New, monospace;
-  font-size: 40px;
-  position: absolute;
-  animation-name: r; 
-  animation-duration: 3s;
-  animation-fill-mode: forwards;
-}
-
-t {
-  color: white;
-  margin: 0;
-  top: 70%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family: Courier New, monospace;
-  font-size: 20px;
-  position: absolute;
-  animation-name: e; 
-  animation-delay: 1.3s;
-  animation-duration: 2s;
-  animation-fill-mode: forwards;
-}
-
-@keyframes w {
-  from {left: 20%;}
-  to {left: 50%; 
-  color: black;}
-}
-@keyframes e {
-  from {}
-  to {color: black;}
-}
-@keyframes r {
-  from {left: 70%;}
-  to {left: 50%; 
-  color: black;}
-}
 
 </style>
 </head>
@@ -121,12 +90,9 @@ t {
     <li><a href="index.html">Home</a></li>
 </ul>
 
+  <p>── VICTOR HUYNH ──</p>
+  <o>Hi, I'm</o>
   <l><img src="https://i.postimg.cc/50080vkH/VH.jpg" width=25px height= 17px></l>
-  
-<w>E-Mail</w>
-<e>vhuynh4529@gmail.com</e>
-<r>Phone</r>
-<t>(503)957-2524</t>
 
 </body>
 </html>
