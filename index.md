@@ -5,15 +5,15 @@
 ### Projects
 
 [433MHz Ground Station](/433MHz)
-<img src="images\New Groundstation.jpg?raw=true"/>
+<img src="images\Sats\New Groundstation.jpg"/>
 
 ---
-[Smoke Detection Network](/pdf/reu_presentation.pdf)
-<img src="images\IMG_5810.jpg?raw=true"/>
+[Smoke Detection Network](/Smesh)
+<img src="images\SMesh\IMG_5810.jpg"/>
 
 ---
 [ML Benchmarking Research](/pdf/reu_presentation.pdf)
-<img src="images\reupresim.jpg?raw=true"/>
+<img src="images\reupresim.jpg"/>
 
 ---
 
