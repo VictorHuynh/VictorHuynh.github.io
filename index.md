@@ -12,7 +12,7 @@
 <img src="images\SMesh\IMG_5810.jpg"/>
 
 ---
-[ML Benchmarking Research](/pdf/reu_presentation.pdf)
+[ML Benchmarking Research](/REU.md)
 <img src="images\reupresim.jpg"/>
 
 ---
