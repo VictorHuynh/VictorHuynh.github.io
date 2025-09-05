@@ -4,10 +4,9 @@
 
 ### Gallery
 
-<img src="images\SMesh\IMG_5810.jpg"/>
-<img src="images\SMesh\image.png"/>
-<img src="images\SMesh\IMG_4886.jpg"/>
 <img src="images\SMesh\IMG_20241012_095639867_HDR.jpg"/>
 <img src="images\SMesh\IMG_20241017_183101757.jpg"/>
+<img src="images\SMesh\IMG_5810.jpg"/>
+<img src="images\SMesh\smeshpres.PNG"/>
 
-For more details see [SMesh's GitHub Repository](https://github.com/josdo/smesh/).
+For more details on the project, see [SMesh's Website](https://smesh.info/).
