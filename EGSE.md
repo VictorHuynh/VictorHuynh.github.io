@@ -4,10 +4,10 @@
 
 ### Gallery
 
-<img src="images\EGSE\pid.PNG"/>
-<img src="images\EGSE\schem.JPG"/>
-<img src="images\EGSE\egse1.JPG"/>
-<img src="images\EGSE\egse2.JPG"/>
 <img src="images\EGSE\egse3.JPG"/>
+<img src="images\EGSE\egse2.JPG"/>
+<img src="images\EGSE\egse1.JPG"/>
+<img src="images\EGSE\schem.JPG"/>
+<img src="images\EGSE\pid.PNG"/>
 
 For more details on the software, see [Rockets's GitHub Repository](https://github.com/stanford-ssi/hummingbird-arduino).

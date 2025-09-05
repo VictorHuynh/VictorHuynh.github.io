@@ -5,7 +5,7 @@
 ### Projects
 
 [Electrical Ground Support Equipment](/EGSE.md)
-<img src="images\reupresim.jpg"/>
+<img src="images\EGSE\egse3.JPG"/>
 
 ---
 [433MHz Ground Station](/433MHz)
