@@ -3,8 +3,10 @@ logo: "images/photo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br>
   Electrical Engineering @ Stanford
-  <br><br>
+  <br>
+  <br>
   Coterminal M.S. student in Electrical Engineering at Stanford, passionate about aerospace, communications, and applied machine learning. I enjoy building end-to-end systems at the intersection of signal processing, embedded hardware, RF, and integrated circuit design (ASIC/VLSI). I’m driven to apply my skills to advance space systems, communication networks, and intelligent hardware.
+  <br>
   <a href="https://www.linkedin.com/in/victorvh/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
