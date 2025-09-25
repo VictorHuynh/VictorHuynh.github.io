@@ -8,11 +8,15 @@
 <img src="images\EGSE\egse3.JPG"/>
 
 ---
-[433MHz Ground Station](/433MHz)
+[Wave-Table Music Synthesizer on FPGA](/FPGA)
+<img src="images\FPGA\Screenshot 2025-09-25 092012.png"/>
+
+---
+[433MHz RF Ground Station Board](/433MHz)
 <img src="images\Sats\New Groundstation.jpg"/>
 
 ---
-[Smoke Detection Network](/Smesh)
+[Smoke Sensor Mesh Radio Network](/Smesh)
 <img src="images\SMesh\IMG_5810.jpg"/>
 
 ---
