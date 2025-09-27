@@ -16,6 +16,10 @@
 <img src="images\Sats\New Groundstation.jpg"/>
 
 ---
+[Analog Audio Amplifier Speaker System](/analog)
+<img src="images\analog\Screenshot 2025-09-27 131718 (1) (1).png"/>
+
+---
 [Smoke Sensor Mesh Radio Network](/Smesh)
 <img src="images\SMesh\IMG_5810.jpg"/>
 
